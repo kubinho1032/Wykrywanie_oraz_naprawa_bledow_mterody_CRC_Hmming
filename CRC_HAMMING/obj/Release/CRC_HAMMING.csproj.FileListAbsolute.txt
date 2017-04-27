@@ -1,0 +1,15 @@
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\CRC_HAMMING\CRC_HAMMING\bin\Release\CRC_HAMMING.exe.config
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\CRC_HAMMING\CRC_HAMMING\bin\Release\CRC_HAMMING.exe
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\CRC_HAMMING\CRC_HAMMING\bin\Release\CRC_HAMMING.pdb
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\CRC_HAMMING\CRC_HAMMING\bin\Release\System.Data.HashFunction.Core.dll
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\CRC_HAMMING\CRC_HAMMING\bin\Release\System.Data.HashFunction.CRC.dll
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\CRC_HAMMING\CRC_HAMMING\bin\Release\System.Data.HashFunction.Interfaces.dll
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\CRC_HAMMING\CRC_HAMMING\bin\Release\System.Data.HashFunction.Core.xml
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\CRC_HAMMING\CRC_HAMMING\bin\Release\System.Data.HashFunction.CRC.xml
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\CRC_HAMMING\CRC_HAMMING\bin\Release\System.Data.HashFunction.Interfaces.xml
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\CRC_HAMMING\CRC_HAMMING\obj\Release\CRC_HAMMING.Form1.resources
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\CRC_HAMMING\CRC_HAMMING\obj\Release\CRC_HAMMING.Form2.resources
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\CRC_HAMMING\CRC_HAMMING\obj\Release\CRC_HAMMING.Properties.Resources.resources
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\CRC_HAMMING\CRC_HAMMING\obj\Release\CRC_HAMMING.csproj.GenerateResource.Cache
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\CRC_HAMMING\CRC_HAMMING\obj\Release\CRC_HAMMING.exe
+C:\Users\Korek10\Documents\Visual Studio 2015\Projects\CRC_HAMMING\CRC_HAMMING\obj\Release\CRC_HAMMING.pdb
